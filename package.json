@@ -1,14 +1,15 @@
 {
-  "name": "jasmine-node",
+  "name": "jasmine-node-reporter-fix",
   "version": "1.14.3",
   "description": "DOM-less simple JavaScript BDD testing framework for Node",
   "contributors": [
-    "Chris Moultrie <chris@moultrie.org>"
+    "Chris Moultrie <chris@moultrie.org>",
+    "Adrian Lanning <alanning@gmail.com>"
   ],
-  "homepage": "https://github.com/mhevery/jasmine-node",
+  "homepage": "https://github.com/alanning/jasmine-node",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mhevery/jasmine-node.git"
+    "url": "https://github.com/alanning/jasmine-node.git"
   },
   "keywords": [
     "testing",
